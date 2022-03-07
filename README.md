@@ -1,8 +1,8 @@
 # Data analysis
 - Document here the project: IOTTimeSeries
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Description: Energy consumption Forecasting
+- Data Source: [downloadable here](https://www.kaggle.com/jaganadhg/house-hold-energy-data)
+- Type of analysis:ARIMA, SARIMAX
 
 Please document the project the better you can.
 
